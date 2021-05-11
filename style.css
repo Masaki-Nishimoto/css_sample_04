@@ -1,0 +1,35 @@
+body {
+    background-color: silver;
+    background-image : url("images/IMG_7935.JPG");
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: white;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+    background-color: white;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: black;
+    color: white;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : black;
+    color: white;
+}
